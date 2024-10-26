@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { Link, NavLink, useNavigate } from "react-router-dom";
-import Logo from "../assets/images/logo.png";
 import { FaB, FaBarsStaggered } from "react-icons/fa6";
 import { IoClose } from "react-icons/io5";
 import { useAuth } from "../Context/authContext";
