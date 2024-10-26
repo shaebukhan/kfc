@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import Logo from "../assets/images/logo.png";
 import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 import { FaPhone } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
