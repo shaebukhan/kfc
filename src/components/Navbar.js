@@ -39,7 +39,7 @@ const Navbar = () => {
                 <div className="navbar-logo">
                     <FaBarsStaggered className="sidebar-open-btn" onClick={openMenu} />
                     <Link to="/">
-                        {/* <img className="logo" src={Logo} alt="logo" /> */}
+                       
                         <div className="logo-text"> <div className="c-clr">Ali </div> <span>Kebab</span></div>
                     </Link>
                 </div>
